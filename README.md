@@ -8,8 +8,7 @@ The code is kept simple with only the necessary components being added, while ke
 
 ### Part of my <a href="https://github.com/GeoSn0w/OpenJailbreak">OpenJailbreak Project</a>.
 
-Feel free to mess with the code as long as you do proper crediting where it is due.
-
+mkml kmls kml kmls kmlsckmlsckmlcskmlccccijocijocIJcIJcdijdsckh jds aukh dsisuskusk sis jk kjskj
 ### Speaking of credits
 Special thanks to the following developers. Their work is used in this project:
 * <a href="https://twitter.com/Jakeashacks">Jake James</a>
